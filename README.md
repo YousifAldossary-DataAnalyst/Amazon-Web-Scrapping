@@ -12,7 +12,7 @@ Jupyter: csv, panda, time, requests, datetime, bs4, smtplib
     2. Price
     3. Date
   - Methods:
-     1. Manually find the names of Ids through browser inspect.
+     1. Manually find the names of Ids through browser inspect and copy paste page URL.
      2. Create csv with titles, where the data will be stored daily.
      3. build a function for aimed price.
      4. Recieve notification when the website drop the value to the aimed price or lower.
